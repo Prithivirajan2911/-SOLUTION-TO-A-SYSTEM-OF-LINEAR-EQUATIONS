@@ -31,5 +31,4 @@ print(result)
 ![image](https://github.com/Prithivirajan2911/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/147020085/53908c2e-a945-4de3-b63e-2ab6ced2ad33)
 
 ## Result: 
-Thus the solutions for the linear equations are successfully solved using python program
-
+Thus the solutions for the linear equations are successfully solved using python program.
